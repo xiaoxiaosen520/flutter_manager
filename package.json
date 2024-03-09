@@ -1,0 +1,23 @@
+{
+  "name": "flutter_manager",
+  "version": "1.0.0",
+  "description": "Twitter oAuth Module for the 1.1 API",
+  "main": "src/Flutter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoxiaosen520/flutter_manager.git"
+  },
+  "keywords": [
+    "twitter",
+    "oauth"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoxiaosen520/flutter_manager/issues"
+  },
+  "dependencies": {
+    "oauth": "^0.9.13",
+    "debug": "^2.2.0",
+    "redis": "^0.12.1"
+  }
+}
